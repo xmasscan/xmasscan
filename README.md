@@ -7,6 +7,4 @@ Additionally, I am primarily interested in the FOSS movement and Cyber Security,
 
 # Specialties
 
-**Languages:** C, C++, Python, Java
-
-**Tools:** Vim, Linux, LaTeX
+**Languages:** C, C++, Bash, Python
