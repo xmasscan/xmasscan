@@ -7,4 +7,4 @@ Additionally, I am primarily interested in the FOSS movement and Cyber Security,
 
 # Specialties
 
-**Languages:** C, C++, Java, Python, Bash, PowerShell, Rust
+**Languages:** C, C++, Java, Python, Rust, Bash 
