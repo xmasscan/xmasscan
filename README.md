@@ -1,3 +1,5 @@
+[![An image of @xmasscan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xmasscan)](https://holopin.io/@xmasscan)
+
 # About Me
 As long as I can remember, I've always been on a computer. Although Computer Science has always been somewhat interesting to me, the first time I really messed with a program in a tangible way was messing with my HUD on the videogame Team Fortress 2. It was just moving around files and editing config files, but it was the first time I realized I could just interact directly with my computer and the programs it had on it.
 
