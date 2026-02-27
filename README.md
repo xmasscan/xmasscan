@@ -7,6 +7,4 @@ Additionally, I am primarily interested in the FOSS movement and Cyber Security,
 
 # Specialties
 
-**Languages:** C, C++, Java, Python, Rust, Bash 
-
-[![An image of @xmasscan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xmasscan)](https://holopin.io/@xmasscan)
+**Languages:** C, C++, Java, Python, Rust, Bash
